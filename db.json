@@ -1,0 +1,12 @@
+{
+  "motorcycles": [
+    {
+      "trademark": "YAMAHA",
+      "model": "K1600B",
+      "reference": "344334",
+      "price": "4000",
+      "image": "https://www.rentaride.com/assets/media/images/bikes/tiles/K1600BNEWMODEL.png",
+      "id": 1
+    }
+  ]
+}
